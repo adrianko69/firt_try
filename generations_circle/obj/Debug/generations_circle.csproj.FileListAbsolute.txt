@@ -1,0 +1,9 @@
+c:\users\adrian\documents\visual studio 2012\Projects\generations_circle\generations_circle\bin\Debug\generations_circle.exe.config
+c:\users\adrian\documents\visual studio 2012\Projects\generations_circle\generations_circle\obj\Debug\generations_circle.csprojResolveAssemblyReference.cache
+c:\users\adrian\documents\visual studio 2012\Projects\generations_circle\generations_circle\obj\Debug\generations_circle.Main.resources
+c:\users\adrian\documents\visual studio 2012\Projects\generations_circle\generations_circle\obj\Debug\generations_circle.Properties.Resources.resources
+c:\users\adrian\documents\visual studio 2012\Projects\generations_circle\generations_circle\obj\Debug\generations_circle.csproj.GenerateResource.Cache
+c:\users\adrian\documents\visual studio 2012\Projects\generations_circle\generations_circle\bin\Debug\generations_circle.exe
+c:\users\adrian\documents\visual studio 2012\Projects\generations_circle\generations_circle\bin\Debug\generations_circle.pdb
+c:\users\adrian\documents\visual studio 2012\Projects\generations_circle\generations_circle\obj\Debug\generations_circle.exe
+c:\users\adrian\documents\visual studio 2012\Projects\generations_circle\generations_circle\obj\Debug\generations_circle.pdb
