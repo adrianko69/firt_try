@@ -7,3 +7,6 @@ c:\users\adrian\documents\visual studio 2012\Projects\generations_circle\generat
 c:\users\adrian\documents\visual studio 2012\Projects\generations_circle\generations_circle\bin\Debug\generations_circle.pdb
 c:\users\adrian\documents\visual studio 2012\Projects\generations_circle\generations_circle\obj\Debug\generations_circle.exe
 c:\users\adrian\documents\visual studio 2012\Projects\generations_circle\generations_circle\obj\Debug\generations_circle.pdb
+C:\Users\Adrian\Source\Repos\firt_try\generations_circle\bin\Debug\generations_circle.exe.config
+C:\Users\Adrian\Source\Repos\firt_try\generations_circle\obj\Debug\generations_circle.exe
+C:\Users\Adrian\Source\Repos\firt_try\generations_circle\obj\Debug\generations_circle.pdb
