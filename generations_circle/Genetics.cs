@@ -14,7 +14,7 @@ namespace generations_circle
 
         public static float CROSS_RATE = 1.0f;
         public float MUTATION_RATE = 0.02f;
-        public float MAX_MUTATION = 0.2f;
+        public float MAX_MUTATION = 0.3f;
         public float MIN_MUTATION = 0.01f;
         public static int POPULATION_SIZE = 80;
         public static int GENERATIONS_NUM = 1500;
